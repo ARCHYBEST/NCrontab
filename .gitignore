@@ -13,3 +13,4 @@ pkg/base/
 *.nupkg
 packages/*
 .vs/
+project.lock.json
